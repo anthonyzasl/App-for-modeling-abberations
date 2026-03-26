@@ -1,6 +1,6 @@
 # App-for-modeling-abberations
 
-[English](README.en.md)
+[English](README.md)
 
 ## 1. Відомості про автора проєкту та керівників
 * **Автор проєкту:** Заславський Антон, ліцеїст 11–A–1 класу 
