@@ -1,6 +1,6 @@
 # App-for-modeling-abberations
 
-[Ukrainian](README.md)
+[Ukrainian](README.ukr.md)
 
 ## 1. Project Author and Supervisors
 * **Project Author:** Anton Zaslavskyi, student of class 11-A-1
